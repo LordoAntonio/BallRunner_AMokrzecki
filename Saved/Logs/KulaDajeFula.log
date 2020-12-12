@@ -800,3 +800,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.12-16.34.01:669][118]LogFileHelpers: Saving map 'MainLevel' took 0.047
 [2020.12.12-16.34.01:677][118]AssetCheck: New page: Asset Save: MainLevel
 [2020.12.12-16.34.01:677][118]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2020.12.12-16.37.18:076][870]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.12-16.37.18:080][870]LogSlate: Window 'Project Settings' being destroyed
+[2020.12.12-16.37.19:481][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.12.12-16.37.20:793][ 28]LogSlate: Window 'Save Content' being destroyed
+[2020.12.12-16.38.48:359][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.12.12-16.38.48:384][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.12-16.38.48:394][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.12.12-16.38.48:410][  7]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/MainLevel95AAB6924CEE0032A54C91B16B5D33C0.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Levels/MainLevel.umap'
+[2020.12.12-16.38.48:433][  7]LogFileHelpers: Saving map 'MainLevel' took 0.050
+[2020.12.12-16.38.48:439][  7]AssetCheck: New page: Asset Save: MainLevel
+[2020.12.12-16.38.48:440][  7]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
