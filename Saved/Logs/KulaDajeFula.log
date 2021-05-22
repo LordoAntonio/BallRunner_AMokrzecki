@@ -3827,3 +3827,863 @@ Purging the undo buffer...
 [2021.05.22-00.12.43:566][822]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/MainLevelEA4E92AB43A8EA6286B485A728D4EB02.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Levels/MainLevel.umap'
 [2021.05.22-00.12.43:596][822]AssetCheck: New page: Asset Save: MainLevel
 [2021.05.22-00.12.43:596][822]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.05.22-00.18.46:882][117]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.05.22-00.23.10:014][248]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.22-00.23.14:005][700]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.22-00.23.14:044][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.05.22-00.24.48:046][754]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.05.22-00.24.48:047][754]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.021
+[2021.05.22-00.24.48:048][754]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2021.05.22-00.24.48:048][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2021.05.22-00.24.48:064][754]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/NewBlueprint_Auto0A1A57A494301B427736794B34A16812C.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto0.uasset'
+[2021.05.22-00.24.48:065][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.05.22-00.24.48:079][754]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.05.22-00.24.48:079][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.05.22-00.24.48:103][754]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_PlayerPawn_Auto0872FAF72445535E6AE52A8A36AE495EC.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto0.uasset'
+[2021.05.22-00.24.48:103][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cannon] ([1] browsable assets)...
+[2021.05.22-00.24.48:118][754]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cannon.cannon]
+[2021.05.22-00.24.48:118][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cannon]
+[2021.05.22-00.24.48:118][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/cannon" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2021.05.22-00.24.48:129][754]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/cannon_Auto055AABF054B18FAE19CF64B9C2BA70BDA.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto0.uasset'
+[2021.05.22-00.24.48:130][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Progresss_screenshots/lekcja15] ([1] browsable assets)...
+[2021.05.22-00.24.48:133][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Progresss_screenshots/lekcja15.lekcja15]
+[2021.05.22-00.24.48:133][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Progresss_screenshots/lekcja15]
+[2021.05.22-00.24.48:139][754]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/lekcja15_Auto047BFF1C8489C672FDEA7969245579DD4.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Progresss_screenshots/lekcja15_Auto0.uasset'
+[2021.05.22-00.24.48:140][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Progresss_screenshots/lekcja17] ([1] browsable assets)...
+[2021.05.22-00.24.48:144][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Progresss_screenshots/lekcja17.lekcja17]
+[2021.05.22-00.24.48:144][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Progresss_screenshots/lekcja17]
+[2021.05.22-00.24.48:150][754]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/lekcja17_Auto08C99BE444B9539C162155F983E8EEB3F.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Progresss_screenshots/lekcja17_Auto0.uasset'
+[2021.05.22-00.24.48:150][754]LogFileHelpers: Auto-saving content packages took 0.103
+[2021.05.22-00.25.06:927][571]LogSlate: Window 'Save Asset As' being destroyed
+[2021.05.22-00.25.24:191][971]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.22-00.25.35:866][264]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.22-00.25.35:903][264]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2021.05.22-00.25.38:791][585]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.25.38:803][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.25.38:803][585]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:25:38)
+[2021.05.22-00.25.38:828][585]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.25.38:848][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020141s)
+[2021.05.22-00.25.38:849][585]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.25.38:849][585]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F7B02AFE00), frame # 579585
+[2021.05.22-00.25.38:849][585]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F6FC231300), frame # 579585
+[2021.05.22-00.25.38:849][585]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2021.05.22-00.25.38:849][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.021222s)
+[2021.05.22-00.25.38:869][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.22-00.25.38:869][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.25.38:869][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.25.38:869][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.25.38:869][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.25.38:870][585]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.25.38:870][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.25.38:870][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.25.38:870][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.25.38:870][585]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.25.38:870][585]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.25.38:873][585]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.25.38:873][585]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.25.38:892][585]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.25.38:892][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.25.38:892][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.25.38:892][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.25.38:893][585]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.25.38:902][585]LogInit: FAudioDevice initialized.
+[2021.05.22-00.25.38:911][585]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.25.38:913][585]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.25.38
+[2021.05.22-00.25.38:913][585]LogWorld: Bringing up level for play took: 0.001949
+[2021.05.22-00.25.38:913][585]LogOnline: OSS: Creating online subsystem instance for: :Context_75
+[2021.05.22-00.25.38:916][585]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.25.38:917][585]PIE: Server logged in
+[2021.05.22-00.25.38:917][585]PIE: Play in editor total start time 0,115 seconds.
+[2021.05.22-00.25.38:918][585]LogBlueprintUserMessages: [cannon_2] Hello
+[2021.05.22-00.25.40:433][766]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.40:792][809]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.25.41:124][849]LogBlueprintUserMessages: [NewBlueprint_8] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.25.41:175][855]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.41:866][938]LogBlueprintUserMessages: [NewBlueprint3_14] Bardzo dobrze byczku, zebrales #2 monetę
+[2021.05.22-00.25.42:958][ 69]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.25.45:125][329]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.25.47:292][589]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.25.47:292][589]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.49:459][849]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.25.49:459][849]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.51:625][109]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.25.51:625][109]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.53:792][369]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.25.53:792][369]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.25.55:959][629]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.25.58:132][888]LogBlueprintUserMessages: [cannonball_C_8] Hello
+[2021.05.22-00.26.00:298][148]LogBlueprintUserMessages: [cannonball_C_9] Hello
+[2021.05.22-00.26.00:330][152]Set new viewmode: Wireframe
+[2021.05.22-00.26.02:465][408]LogBlueprintUserMessages: [cannonball_C_10] Hello
+[2021.05.22-00.26.04:632][668]LogBlueprintUserMessages: [cannonball_C_11] Hello
+[2021.05.22-00.26.04:632][668]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.26.06:799][928]LogBlueprintUserMessages: [cannonball_C_12] Hello
+[2021.05.22-00.26.07:714][ 38]Set new viewmode: Wireframe
+[2021.05.22-00.26.07:999][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.26.07:999][ 69]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.26.07:999][ 69]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.26.08:000][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.26.08:006][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.26.08:009][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.26.08:037][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.26.08:038][ 69]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F6FC231300), frame # 583069
+[2021.05.22-00.26.08:038][ 69]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F7B02AFE00), frame # 583069
+[2021.05.22-00.26.08:040][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.05.22-00.26.08:101][ 71]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2021.05.22-00.26.08:168][ 79]Cmd: SELECT NONE
+[2021.05.22-00.26.11:104][405]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectiles/cannonball.cannonball
+[2021.05.22-00.26.18:032][102]BlueprintLog: New page: Compile cannonball
+[2021.05.22-00.26.18:069][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.22-00.26.32:803][658]BlueprintLog: New page: Compile cannonball
+[2021.05.22-00.26.32:838][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.05.22-00.26.35:131][831]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.26.35:143][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.26.35:143][831]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:26:35)
+[2021.05.22-00.26.35:168][831]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.26.35:186][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017366s)
+[2021.05.22-00.26.35:186][831]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.26.35:186][831]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F6FC963800), frame # 585831
+[2021.05.22-00.26.35:186][831]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F796AAE700), frame # 585831
+[2021.05.22-00.26.35:187][831]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2021.05.22-00.26.35:187][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018407s)
+[2021.05.22-00.26.35:208][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.26.35:209][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.26.35:209][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.26.35:210][831]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.26.35:210][831]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.26.35:213][831]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.26.35:213][831]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.26.35:230][831]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.26.35:230][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.26.35:230][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.26.35:230][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.26.35:231][831]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.26.35:240][831]LogInit: FAudioDevice initialized.
+[2021.05.22-00.26.35:244][831]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.26.35:246][831]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.26.35
+[2021.05.22-00.26.35:246][831]LogWorld: Bringing up level for play took: 0.001827
+[2021.05.22-00.26.35:247][831]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2021.05.22-00.26.35:249][831]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.26.35:249][831]PIE: Server logged in
+[2021.05.22-00.26.35:250][831]PIE: Play in editor total start time 0,107 seconds.
+[2021.05.22-00.26.35:251][831]LogBlueprintUserMessages: [cannon_2] Hello
+[2021.05.22-00.26.37:127][ 55]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.37:127][ 55]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.37:136][ 56]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.37:577][109]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.26.38:270][192]LogBlueprintUserMessages: [NewBlueprint3_14] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.26.38:329][199]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.26.38:329][199]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.39:162][299]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.26.39:162][299]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.39:296][315]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.39:304][316]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.39:304][316]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.41:463][575]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.41:471][576]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.41:471][576]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.41:471][576]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.43:630][835]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.43:637][836]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.26.43:637][836]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.26.43:637][836]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.26.43:638][836]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.26.44:419][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.26.44:419][925]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.26.44:419][925]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.26.44:419][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.26.44:424][925]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.26.44:427][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.26.44:458][925]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.26.44:459][925]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F796AAE700), frame # 586925
+[2021.05.22-00.26.44:459][925]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F6FC963800), frame # 586925
+[2021.05.22-00.26.44:461][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.22-00.26.44:491][926]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2021.05.22-00.27.14:345][986]BlueprintLog: New page: Compile cannonball
+[2021.05.22-00.27.14:388][986]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.05.22-00.27.21:452][676]BlueprintLog: New page: Compile cannonball
+[2021.05.22-00.27.21:487][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.05.22-00.27.23:376][873]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.27.23:389][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.27.23:389][873]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:27:23)
+[2021.05.22-00.27.23:428][873]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.27.23:447][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019042s)
+[2021.05.22-00.27.23:448][873]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.27.23:448][873]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F6FC960600), frame # 590873
+[2021.05.22-00.27.23:448][873]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F74F79D080), frame # 590873
+[2021.05.22-00.27.23:448][873]LogPlayLevel: PIE: World Init took: (0.000889s)
+[2021.05.22-00.27.23:448][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.020049s)
+[2021.05.22-00.27.23:470][873]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.27.23:471][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.27.23:471][873]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.27.23:471][873]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.27.23:474][873]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.27.23:474][873]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.27.23:491][873]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.27.23:491][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.27.23:491][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.27.23:491][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.27.23:492][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.27.23:500][873]LogInit: FAudioDevice initialized.
+[2021.05.22-00.27.23:505][873]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.27.23:507][873]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.27.23
+[2021.05.22-00.27.23:507][873]LogWorld: Bringing up level for play took: 0.001836
+[2021.05.22-00.27.23:507][873]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2021.05.22-00.27.23:509][873]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.27.23:509][873]PIE: Server logged in
+[2021.05.22-00.27.23:510][873]PIE: Play in editor total start time 0,122 seconds.
+[2021.05.22-00.27.25:376][ 95]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.25:376][ 95]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.25:701][134]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.26:168][190]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.26:392][217]LogBlueprintUserMessages: [NewBlueprint2_11] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.27.26:859][273]LogBlueprintUserMessages: [NewBlueprint3_14] Bardzo dobrze byczku, zebrales #2 monetę
+[2021.05.22-00.27.27:543][355]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.27:543][355]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.27:543][355]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.27:543][355]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.29:692][613]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.29:692][613]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.29:710][615]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.29:867][634]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.29:868][634]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.29:951][644]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.29:951][644]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.30:692][733]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.30:692][733]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.31:876][875]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.31:877][875]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.32:259][921]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:259][921]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.32:284][924]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:284][924]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.32:343][931]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:343][931]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.32:501][950]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:501][950]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.32:509][951]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:509][951]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.32:559][957]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.32:559][957]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.33:351][ 52]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.33:351][ 52]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.33:509][ 71]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.33:509][ 71]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.33:592][ 81]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.33:592][ 81]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.34:043][135]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:210][395]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.36:876][475]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.36:876][475]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.36:976][487]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.36:976][487]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.37:284][524]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.37:285][524]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.37:443][543]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.37:443][543]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.37:509][551]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.37:509][551]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.37:576][559]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.37:576][559]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.38:376][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:377][655]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.38:377][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:377][655]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.38:377][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:377][655]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:701][694]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:701][694]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.38:701][694]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:701][694]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.38:718][696]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:718][696]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.38:718][696]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:718][696]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.38:751][700]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:751][700]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.38:801][706]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.38:801][706]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.39:909][839]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:909][839]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.39:909][839]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:909][839]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.39:918][840]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:918][840]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.39:918][840]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:918][840]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.39:934][842]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:934][842]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.39:967][846]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.39:968][846]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:543][915]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.40:836][950]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:836][950]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.40:851][952]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:852][952]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.40:868][954]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:868][954]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.27.40:893][957]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:893][957]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.27.40:910][959]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:910][959]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.27.40:935][962]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:935][962]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.27.40:960][965]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.40:960][965]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.27.41:084][980]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.41:084][980]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.41:189][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.27.41:189][988]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.27.41:189][988]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.27.41:189][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.27.41:193][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.27.41:197][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.27.41:227][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.27.41:228][988]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F74F79D080), frame # 592988
+[2021.05.22-00.27.41:228][988]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F6FC960600), frame # 592988
+[2021.05.22-00.27.41:230][988]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.22-00.27.41:255][989]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2021.05.22-00.27.48:830][741]BlueprintLog: New page: Compile cannonball
+[2021.05.22-00.27.48:865][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.05.22-00.27.50:722][954]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.27.50:734][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.27.50:734][954]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:27:50)
+[2021.05.22-00.27.50:758][954]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.27.50:776][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017402s)
+[2021.05.22-00.27.50:776][954]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.27.50:776][954]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F78072C400), frame # 593954
+[2021.05.22-00.27.50:776][954]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F78689CA40), frame # 593954
+[2021.05.22-00.27.50:777][954]LogPlayLevel: PIE: World Init took: (0.000894s)
+[2021.05.22-00.27.50:777][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018431s)
+[2021.05.22-00.27.50:798][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.27.50:799][954]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.27.50:799][954]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.27.50:799][954]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.27.50:802][954]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.27.50:802][954]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.27.50:819][954]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.27.50:819][954]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.27.50:819][954]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.27.50:819][954]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.27.50:819][954]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.27.50:828][954]LogInit: FAudioDevice initialized.
+[2021.05.22-00.27.50:836][954]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.27.50:838][954]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.27.50
+[2021.05.22-00.27.50:838][954]LogWorld: Bringing up level for play took: 0.001909
+[2021.05.22-00.27.50:838][954]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2021.05.22-00.27.50:840][954]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.27.50:841][954]PIE: Server logged in
+[2021.05.22-00.27.50:841][954]PIE: Play in editor total start time 0,108 seconds.
+[2021.05.22-00.27.52:139][109]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.52:715][178]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.27.52:831][192]LogBlueprintUserMessages: [NewBlueprint_8] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.27.53:081][222]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.53:581][282]LogBlueprintUserMessages: [BP_PlayerPawn_C_0] Oberwałes
+[2021.05.22-00.27.53:773][305]LogBlueprintUserMessages: [NewBlueprint3_14] Bardzo dobrze byczku, zebrales #2 monetę
+[2021.05.22-00.27.54:881][438]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.27.55:830][552]Set new viewmode: Wireframe
+[2021.05.22-00.27.57:048][698]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.27.57:480][750]Set new viewmode: Wireframe
+[2021.05.22-00.27.57:769][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.27.57:769][780]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.27.57:769][780]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.27.57:769][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.27.57:773][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.27.57:777][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.27.57:807][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.27.57:808][780]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F78689CA40), frame # 594780
+[2021.05.22-00.27.57:808][780]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F78072C400), frame # 594780
+[2021.05.22-00.27.57:810][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.22-00.27.57:835][781]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2021.05.22-00.30.39:168][734]LogSlate: Window 'cannonball' being destroyed
+[2021.05.22-00.30.39:172][734]LogSlate: Window 'cannonball' being destroyed
+[2021.05.22-00.30.39:228][734]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.30.39:228][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.30.39:284][734]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-00.30.39:284][734]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.30.39:284][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.30.40:351][835]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.05.22-00.30.40:355][835]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.05.22-00.30.40:367][835]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-00.30.40:367][835]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.30.40:367][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.31.01:455][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Trigger.BP_Trigger
+[2021.05.22-00.34.45:969][143]BlueprintLog: New page: Compile BP_Trigger
+[2021.05.22-00.34.46:004][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.05.22-00.34.52:088][759]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn
+[2021.05.22-00.35.34:872][670]BlueprintLog: New page: Compile BP_Trigger
+[2021.05.22-00.35.34:906][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.05.22-00.35.36:720][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.35.36:733][861]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.22-00.35.36:734][861]LogPlayLevel: [PlayLevel] Compiling BP_PlayerPawn before play...
+[2021.05.22-00.35.36:782][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.05.22-00.35.36:782][861]LogPlayLevel: PlayLevel: Blueprint regeneration took 49 ms (1 blueprints)
+[2021.05.22-00.35.36:783][861]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:35:36)
+[2021.05.22-00.35.36:828][861]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.35.36:846][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017649s)
+[2021.05.22-00.35.36:846][861]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.35.36:846][861]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F76D5E5400), frame # 631861
+[2021.05.22-00.35.36:846][861]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F70F840B80), frame # 631861
+[2021.05.22-00.35.36:846][861]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2021.05.22-00.35.36:846][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018683s)
+[2021.05.22-00.35.36:866][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.35.36:866][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.35.36:866][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.35.36:866][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.35.36:867][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.35.36:869][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.35.36:869][861]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.35.36:888][861]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.35.36:888][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.35.36:888][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.35.36:888][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.35.36:889][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.35.36:898][861]LogInit: FAudioDevice initialized.
+[2021.05.22-00.35.36:904][861]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.35.36:906][861]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.35.36
+[2021.05.22-00.35.36:906][861]LogWorld: Bringing up level for play took: 0.001917
+[2021.05.22-00.35.36:907][861]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2021.05.22-00.35.36:909][861]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.35.36:909][861]PIE: Server logged in
+[2021.05.22-00.35.36:910][861]PIE: Play in editor total start time 0,178 seconds.
+[2021.05.22-00.35.38:718][ 77]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.35.40:885][337]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.35.43:051][597]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.35.45:218][857]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.35.47:384][117]LogBlueprintUserMessages: [cannonball_C_4] Hello
+[2021.05.22-00.35.49:551][377]LogBlueprintUserMessages: [cannonball_C_5] Hello
+[2021.05.22-00.35.51:718][637]LogBlueprintUserMessages: [cannonball_C_6] Hello
+[2021.05.22-00.35.53:890][896]LogBlueprintUserMessages: [cannonball_C_7] Hello
+[2021.05.22-00.35.56:057][156]LogBlueprintUserMessages: [cannonball_C_8] Hello
+[2021.05.22-00.35.58:223][416]LogBlueprintUserMessages: [cannonball_C_9] Hello
+[2021.05.22-00.35.58:918][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.35.58:918][495]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.35.58:919][495]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.35.58:919][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.35.58:927][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.35.58:930][495]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.35.58:947][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.35.58:960][495]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F70F840B80), frame # 634495
+[2021.05.22-00.35.58:960][495]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F76D5E5400), frame # 634495
+[2021.05.22-00.35.58:962][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.22-00.35.58:987][496]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2021.05.22-00.36.45:635][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.05.22-00.36.45:692][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/MainLevel_Auto12F99985E45F41B1D5DF7C2BE5D16024A.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Levels/MainLevel_Auto1.umap'
+[2021.05.22-00.36.45:693][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.077
+[2021.05.22-00.36.45:693][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.077
+[2021.05.22-00.36.45:693][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Trigger] ([1] browsable assets)...
+[2021.05.22-00.36.45:693][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Trigger]
+[2021.05.22-00.36.45:710][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_Trigger_Auto1E3FD104B4D5C32F332FF7A9ECBCA1C0E.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/BP_Trigger_Auto1.uasset'
+[2021.05.22-00.36.45:711][224]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2021.05.22-00.36.45:711][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2021.05.22-00.36.45:728][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/NewBlueprint_Auto1B2533E664586DFD9ACAA5985B70EE7CD.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto1.uasset'
+[2021.05.22-00.36.45:728][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.05.22-00.36.45:742][224]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.05.22-00.36.45:742][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.05.22-00.36.45:765][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_PlayerPawn_Auto161AAB98343183A4E8040C9A5071E712C.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto1.uasset'
+[2021.05.22-00.36.45:766][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectiles/cannonball] ([1] browsable assets)...
+[2021.05.22-00.36.45:780][224]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectiles/cannonball.cannonball]
+[2021.05.22-00.36.45:780][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/cannonball]
+[2021.05.22-00.36.45:792][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/cannonball_Auto13F13CA6C4493D4FAFA6B00AC289522BC.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/Projectiles/cannonball_Auto1.uasset'
+[2021.05.22-00.36.45:792][224]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cannon] ([1] browsable assets)...
+[2021.05.22-00.36.45:807][224]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cannon.cannon]
+[2021.05.22-00.36.45:807][224]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cannon]
+[2021.05.22-00.36.45:807][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/cannon" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.05.22-00.36.45:823][224]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/cannon_Auto1D0C62EAA4F12D326FE54F6B29B7631B3.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto1.uasset'
+[2021.05.22-00.36.45:823][224]LogFileHelpers: Auto-saving content packages took 0.130
+[2021.05.22-00.36.53:197][983]LogBlueprint: Error: [Compiler ] On Component Begin Overlap (Sphere)  cannot be placed in function graph
+[2021.05.22-00.36.53:197][983]BlueprintLog: New page: Collapse to Function
+[2021.05.22-00.36.53:197][983]BlueprintLog: Error: On Component Begin Overlap (Sphere)  cannot be placed in function graph
+[2021.05.22-00.37.20:747][446]BlueprintLog: New page: Compile BP_PlayerPawn
+[2021.05.22-00.37.20:785][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.05.22-00.37.57:300][734]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.05.22-00.37.58:094][829]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.05.22-00.37.58:097][829]LogSlate: Window 'BP_PlayerPawn' being destroyed
+[2021.05.22-00.37.58:109][829]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.37.58:109][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.37.58:171][829]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-00.37.58:171][829]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.37.58:171][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.39.04:373][176]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.22-00.39.05:436][176]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.22-00.39.13:696][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/damager.damager
+[2021.05.22-00.40.08:630][163]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.40.08:645][163]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.22-00.40.08:645][163]LogPlayLevel: [PlayLevel] Compiling damager before play...
+[2021.05.22-00.40.08:686][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.05.22-00.40.08:690][163]LogPlayLevel: PlayLevel: Blueprint regeneration took 45 ms (1 blueprints)
+[2021.05.22-00.40.08:690][163]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:40:08)
+[2021.05.22-00.40.08:717][163]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.40.08:735][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017920s)
+[2021.05.22-00.40.08:736][163]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.40.08:736][163]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F711B5EA00), frame # 655163
+[2021.05.22-00.40.08:736][163]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F7624A7880), frame # 655163
+[2021.05.22-00.40.08:736][163]LogPlayLevel: PIE: World Init took: (0.000902s)
+[2021.05.22-00.40.08:736][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018958s)
+[2021.05.22-00.40.08:754][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.40.08:755][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.40.08:755][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.40.08:755][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.40.08:758][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.40.08:758][163]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.40.08:776][163]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.40.08:776][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.40.08:776][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.40.08:776][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.40.08:777][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.40.08:786][163]LogInit: FAudioDevice initialized.
+[2021.05.22-00.40.08:794][163]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.40.08:796][163]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.40.08
+[2021.05.22-00.40.08:796][163]LogWorld: Bringing up level for play took: 0.001869
+[2021.05.22-00.40.08:796][163]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2021.05.22-00.40.08:799][163]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.40.08:799][163]PIE: Server logged in
+[2021.05.22-00.40.08:799][163]PIE: Play in editor total start time 0,158 seconds.
+[2021.05.22-00.40.10:628][380]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.40.11:302][461]LogBlueprintUserMessages: [NewBlueprint2_11] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.40.12:795][640]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.40.14:961][900]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.40.15:438][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.40.15:438][952]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.40.15:438][952]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.40.15:439][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.40.15:450][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.40.15:453][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.40.15:469][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.40.15:482][952]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F7624A7880), frame # 655952
+[2021.05.22-00.40.15:482][952]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F711B5EA00), frame # 655952
+[2021.05.22-00.40.15:484][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.05.22-00.40.15:514][953]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2021.05.22-00.40.30:794][319]BlueprintLog: New page: Compile damager
+[2021.05.22-00.40.30:822][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.05.22-00.40.32:339][487]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.40.32:352][487]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.40.32:352][487]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:40:32)
+[2021.05.22-00.40.32:377][487]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.40.32:395][487]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017607s)
+[2021.05.22-00.40.32:396][487]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.40.32:396][487]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F7BD91C600), frame # 657487
+[2021.05.22-00.40.32:396][487]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F75886B100), frame # 657487
+[2021.05.22-00.40.32:396][487]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2021.05.22-00.40.32:396][487]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018629s)
+[2021.05.22-00.40.32:414][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.40.32:415][487]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.40.32:415][487]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.40.32:415][487]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.40.32:418][487]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.40.32:418][487]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.40.32:435][487]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.40.32:435][487]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.40.32:435][487]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.40.32:435][487]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.40.32:435][487]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.40.32:436][487]LogInit: FAudioDevice initialized.
+[2021.05.22-00.40.32:448][487]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.40.32:450][487]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.40.32
+[2021.05.22-00.40.32:450][487]LogWorld: Bringing up level for play took: 0.001870
+[2021.05.22-00.40.32:450][487]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2021.05.22-00.40.32:452][487]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.40.32:452][487]PIE: Server logged in
+[2021.05.22-00.40.32:453][487]PIE: Play in editor total start time 0,101 seconds.
+[2021.05.22-00.40.34:333][710]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.40.35:232][818]LogBlueprintUserMessages: [NewBlueprint2_11] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.40.36:499][970]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.40.38:666][230]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.40.39:258][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.40.39:258][296]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.40.39:258][296]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.40.39:258][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.40.39:270][296]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.40.39:273][296]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.40.39:301][296]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.40.39:302][296]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F75886B100), frame # 658296
+[2021.05.22-00.40.39:302][296]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F7BD91C600), frame # 658296
+[2021.05.22-00.40.39:304][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.22-00.40.39:333][297]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2021.05.22-00.40.40:175][396]LogEditorViewport: Clicking on Actor (LMB): damager_C (damager)
+[2021.05.22-00.41.08:732][909]BlueprintLog: New page: Compile damager
+[2021.05.22-00.41.08:770][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.05.22-00.41.10:171][ 53]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.22-00.41.10:183][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.22-00.41.10:183][ 53]PIE: New page: PIE session: MainLevel (22 maj 2021, 04:41:10)
+[2021.05.22-00.41.10:183][ 53]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.41.10:201][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017494s)
+[2021.05.22-00.41.10:201][ 53]LogAIModule: Creating AISystem for world MainLevel
+[2021.05.22-00.41.10:202][ 53]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F74620E200), frame # 661053
+[2021.05.22-00.41.10:202][ 53]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F724492980), frame # 661053
+[2021.05.22-00.41.10:202][ 53]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2021.05.22-00.41.10:202][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.018556s)
+[2021.05.22-00.41.10:221][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.22-00.41.10:222][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.22-00.41.10:222][ 53]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.22-00.41.10:222][ 53]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.22-00.41.10:225][ 53]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.22-00.41.10:225][ 53]LogAudioMixer: Display: 1: FrontRight
+[2021.05.22-00.41.10:242][ 53]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.22-00.41.10:242][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.22-00.41.10:242][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.22-00.41.10:242][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.22-00.41.10:243][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.22-00.41.10:252][ 53]LogInit: FAudioDevice initialized.
+[2021.05.22-00.41.10:263][ 53]LogLoad: Game class is 'BP_GameMode_C'
+[2021.05.22-00.41.10:265][ 53]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2021.05.22-02.41.10
+[2021.05.22-00.41.10:265][ 53]LogWorld: Bringing up level for play took: 0.001863
+[2021.05.22-00.41.10:265][ 53]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2021.05.22-00.41.10:267][ 53]LogBlueprintUserMessages: [BP_Trigger_2] Wlasnie tracisz czas na 1 podejscie 
+[2021.05.22-00.41.10:267][ 53]PIE: Server logged in
+[2021.05.22-00.41.10:268][ 53]PIE: Play in editor total start time 0,085 seconds.
+[2021.05.22-00.41.12:171][280]LogBlueprintUserMessages: [cannonball_C_0] Hello
+[2021.05.22-00.41.12:371][304]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.12:654][338]LogBlueprintUserMessages: [NewBlueprint2_11] Bardzo dobrze byczku, zebrales #1 monetę
+[2021.05.22-00.41.13:712][465]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.14:296][535]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.14:338][540]LogBlueprintUserMessages: [cannonball_C_1] Hello
+[2021.05.22-00.41.15:079][629]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.16:505][800]LogBlueprintUserMessages: [cannonball_C_2] Hello
+[2021.05.22-00.41.18:589][ 50]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.18:673][ 60]LogBlueprintUserMessages: [cannonball_C_3] Hello
+[2021.05.22-00.41.19:672][180]LogBlueprintUserMessages: [damager_2] Ouch
+[2021.05.22-00.41.20:518][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.41.20:518][275]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.05.22-00.41.20:519][275]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.41.20:519][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.41.20:528][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.22-00.41.20:531][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.41.20:559][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.22-00.41.20:560][275]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F724492980), frame # 662275
+[2021.05.22-00.41.20:560][275]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F74620E200), frame # 662275
+[2021.05.22-00.41.20:562][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2021.05.22-00.41.20:590][276]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2021.05.22-00.42.09:235][920]LogSlate: Window 'damager' being destroyed
+[2021.05.22-00.42.09:239][920]LogSlate: Window 'damager' being destroyed
+[2021.05.22-00.42.09:277][920]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.42.09:277][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.42.20:874][257]LogEditorViewport: Clicking on Actor (LMB): damager_C (damager)
+[2021.05.22-00.42.20:969][265]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Cube)
+[2021.05.22-00.42.26:182][854]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/damager.damager
+[2021.05.22-00.42.44:705][770]LogSlate: Window 'Color Picker' being destroyed
+[2021.05.22-00.43.33:124][412]LogSlate: Window 'damager' being destroyed
+[2021.05.22-00.43.33:128][412]LogSlate: Window 'damager' being destroyed
+[2021.05.22-00.43.33:157][412]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.43.33:157][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.43.49:962][364]LogEditorViewport: Clicking on Actor (LMB): NewBlueprint_C (NewBlueprint2)
+[2021.05.22-00.43.50:642][441]LogEditorViewport: Clicking on Actor (context menu): NewBlueprint_C (NewBlueprint2)
+[2021.05.22-00.47.09:995][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.05.22-00.47.10:066][604]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/MainLevel_Auto208E373AC401C77AA25C30EB237E61CC5.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2021.05.22-00.47.10:066][604]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.088
+[2021.05.22-00.47.10:066][604]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.088
+[2021.05.22-00.47.10:067][604]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2021.05.22-00.47.10:067][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2021.05.22-00.47.10:083][604]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/NewBlueprint_Auto2609791BB4E29C2EBEE552AB9610529C3.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto2.uasset'
+[2021.05.22-00.47.10:083][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.05.22-00.47.10:097][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.05.22-00.47.10:097][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.05.22-00.47.10:120][604]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_PlayerPawn_Auto24724DB6A464ACA5E7695A6BD37131A55.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto2.uasset'
+[2021.05.22-00.47.10:121][604]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/damager] ([1] browsable assets)...
+[2021.05.22-00.47.10:135][604]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/damager.damager]
+[2021.05.22-00.47.10:135][604]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/damager]
+[2021.05.22-00.47.10:143][604]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/damager_Auto26CE5994E45BFDED238CEC7A508022F62.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/damager_Auto2.uasset'
+[2021.05.22-00.47.10:144][604]LogFileHelpers: Auto-saving content packages took 0.077
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.BP_Trigger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.BP_Trigger_C' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.BP_Trigger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.SKEL_BP_Trigger_C' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.SKEL_BP_Trigger_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.SKEL_BP_Trigger_C:BndEvt__Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.SKEL_BP_Trigger_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.SKEL_BP_Trigger_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.BP_Trigger_C:ReceiveAnyDamage' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:396][647]LogMetaData: Removing '/Game/Blueprints/volumes/BP_Trigger.BP_Trigger_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/BP_Trigger.PackageMetaData'
+[2021.05.22-00.47.53:429][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/volumes/BP_Trigger" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/volumes/BP_Trigger.uasset" SILENT=true
+[2021.05.22-00.47.53:444][647]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_Trigger665ABCA443A3EF3A311059B3BE4E57E7.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/volumes/BP_Trigger.uasset'
+[2021.05.22-00.47.53:445][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Trigger" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/BP_Trigger.uasset" SILENT=true
+[2021.05.22-00.47.53:449][647]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_TriggerD0AA149F420872A7A4142B9DC2843AD4.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/BP_Trigger.uasset'
+[2021.05.22-00.47.53:520][647]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.22-00.47.53:520][647]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/volumes/BP_Trigger.BP_Trigger
+[2021.05.22-00.47.53:520][647]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.BP_Trigger
+[2021.05.22-00.47.53:520][647]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.Default__BP_Trigger_C
+[2021.05.22-00.47.53:520][647]LogContentValidation: Display: Validating ObjectRedirector /Game/Blueprints/BP_Trigger.BP_Trigger_C
+[2021.05.22-00.48.04:841][927]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.22-00.48.05:718][927]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.22-00.48.18:567][450]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/volumes/WinVolume.WinVolume
+[2021.05.22-00.52.47:066][245]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.22-00.53.39:588][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.22-00.53.52:366][754]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2021.05.22-00.54.44:025][574]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint
+[2021.05.22-00.56.26:959][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Libraries/ML_Actors" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/Libraries/ML_Actors.uasset" SILENT=true
+[2021.05.22-00.56.26:962][ 66]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/ML_Actors381148194DF3C086CD76F79BDD3B0703.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Blueprints/Libraries/ML_Actors.uasset'
+[2021.05.22-00.56.26:974][ 66]AssetCheck: New page: Asset Save: ML_Actors
+[2021.05.22-00.56.26:974][ 66]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2021.05.22-00.57.17:429][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.05.22-00.57.17:430][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/MainLevel' took 0.025
+[2021.05.22-00.57.17:431][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/NewBlueprint] ([1] browsable assets)...
+[2021.05.22-00.57.17:439][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/NewBlueprint.NewBlueprint]
+[2021.05.22-00.57.17:439][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/NewBlueprint]
+[2021.05.22-00.57.17:459][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/NewBlueprint_Auto3BD9F1CF54FEF3172CD14F38E3DA3A565.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/NewBlueprint_Auto3.uasset'
+[2021.05.22-00.57.17:459][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_PlayerPawn] ([1] browsable assets)...
+[2021.05.22-00.57.17:467][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_PlayerPawn.BP_PlayerPawn]
+[2021.05.22-00.57.17:467][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_PlayerPawn]
+[2021.05.22-00.57.17:490][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/BP_PlayerPawn_Auto33373B55B4874247E308A23AC94C1774B.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/BP_PlayerPawn_Auto3.uasset'
+[2021.05.22-00.57.17:491][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectiles/cannonball] ([1] browsable assets)...
+[2021.05.22-00.57.17:498][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectiles/cannonball.cannonball]
+[2021.05.22-00.57.17:498][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectiles/cannonball]
+[2021.05.22-00.57.17:510][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/cannonball_Auto3CF9A828B491433B026E092BBE01BC0D3.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/Projectiles/cannonball_Auto3.uasset'
+[2021.05.22-00.57.17:510][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/cannon] ([1] browsable assets)...
+[2021.05.22-00.57.17:517][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/cannon.cannon]
+[2021.05.22-00.57.17:517][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/cannon]
+[2021.05.22-00.57.17:517][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/cannon" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2021.05.22-00.57.17:529][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/cannon_Auto3FE62A5374A2D72D5293F8E97A3093574.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/cannon_Auto3.uasset'
+[2021.05.22-00.57.17:529][402]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/damager] ([1] browsable assets)...
+[2021.05.22-00.57.17:536][402]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/damager.damager]
+[2021.05.22-00.57.17:536][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/damager]
+[2021.05.22-00.57.17:545][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/damager_Auto37A9EB7E5456210BC6223E2AFF711F91D.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/damager_Auto3.uasset'
+[2021.05.22-00.57.17:546][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/volumes/WinVolume] ([1] browsable assets)...
+[2021.05.22-00.57.17:546][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/volumes/WinVolume]
+[2021.05.22-00.57.17:549][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/WinVolume_Auto3276EDD864DBA3832654C7A95D6BEF3C8.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/volumes/WinVolume_Auto3.uasset'
+[2021.05.22-00.57.17:549][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Libraries/ML_Actors] ([1] browsable assets)...
+[2021.05.22-00.57.17:549][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Libraries/ML_Actors]
+[2021.05.22-00.57.17:556][402]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/ML_Actors_Auto3BF2DC37C4AC5C67BAC182F8E1EA0C730.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/Autosaves/Game/Blueprints/Libraries/ML_Actors_Auto3.uasset'
+[2021.05.22-00.57.17:556][402]LogFileHelpers: Auto-saving content packages took 0.126
+[2021.05.22-00.58.19:582][685]BlueprintLog: New page: Compile NewBlueprint
+[2021.05.22-00.58.19:584][685]LogBlueprint: Warning: [Compiler NewBlueprint] Set LerpStartLocation  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.05.22-00.58.19:651][685]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.05.22-00.58.23:716][ 86]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-00.58.23:716][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-00.58.28:488][557]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Libraries/ML_Actors.ML_Actors
+[2021.05.22-00.58.28:740][557]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2021.05.22-00.58.28:788][557]LogSlate: The tab "CompilerResults" attempted to spawn but failed for some reason. An "unrecognized tab" will be returned instead.
+[2021.05.22-00.58.30:961][809]LogSlate: Window 'CompilerResults' being destroyed
+[2021.05.22-00.58.30:964][809]LogSlate: Window 'CompilerResults' being destroyed
+[2021.05.22-00.58.49:182][700]BlueprintLog: New page: Compile NewBlueprint
+[2021.05.22-00.58.49:254][700]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.05.22-01.00.08:391][775]ImportText (TagQueryExportText_Helper): Missing opening parenthesis: 
+[2021.05.22-01.03.12:173][384]LogSlate: Window 'ML_Actors' being destroyed
+[2021.05.22-01.03.12:177][384]LogSlate: Window 'ML_Actors' being destroyed
+[2021.05.22-01.03.12:226][384]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-01.03.12:226][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-01.03.12:285][384]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.05.22-01.03.12:285][384]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-01.03.12:285][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-01.03.12:343][384]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.05.22-01.03.12:343][384]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.22-01.03.32:109][942]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Dokumenty\Studia\Programowanie\lekcja19.png)
+[2021.05.22-01.03.32:136][942]LogTexture: Display: Building textures: lekcja19 (AutoDXT, 1892X1132)
+[2021.05.22-01.03.32:363][942]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Dokumenty\Studia\Programowanie\lekcja18_1.png)
+[2021.05.22-01.03.32:384][942]LogTexture: Display: Building textures: lekcja18_1 (BGRA8, 1845X931)
+[2021.05.22-01.03.32:411][942]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Dokumenty\Studia\Programowanie\lekcja18_2.png)
+[2021.05.22-01.03.32:438][942]LogTexture: Display: Building textures: lekcja18_2 (BGRA8, 1942X1212)
+[2021.05.22-01.03.32:476][942]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Dokumenty\Studia\Programowanie\lekcja18_3.png)
+[2021.05.22-01.03.32:503][942]LogTexture: Display: Building textures: lekcja18_3 (BGRA8, 1890X1143)
+[2021.05.22-01.03.38:970][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.05.22-01.03.38:989][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.05.22-01.03.39:051][962]LogSavePackage: Moving '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Saved/MainLevelB5CDFA18499AAC78E8AA38956B7C3B21.tmp' to '../../../../../../Dokumenty/Studia/Programowanie/KulaDajeFula/Content/Levels/MainLevel.umap'
+[2021.05.22-01.03.39:083][962]AssetCheck: New page: Asset Save: MainLevel
+[2021.05.22-01.03.39:083][962]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
